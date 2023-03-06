@@ -1,7 +1,7 @@
 # Barra de Navegação
 Neste projeto eu fiz uma barra de navegação responsiva usando apenas HTML e CSS.
 
-Acesse o projeto aqui:
+Acesse o projeto aqui: <br>
 https://https-shini.github.io/barra-pessquisa/
 
 ##
