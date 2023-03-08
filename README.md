@@ -30,7 +30,8 @@ A barra de pesquisa é implementada usando um formulário HTML com um campo de e
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do video abaixo.<br>
-https://user-images.githubusercontent.com/100307080/223616475-d4fa00cc-0ca3-486d-bc54-b5cebf4294f7.mp4
+
+https://user-images.githubusercontent.com/100307080/223616914-53094da9-f53a-4408-86ca-4fdb8f15b5b8.mp4
 
 ## :memo: Licença
 
