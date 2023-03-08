@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ☆ Projeto
 
-Este é um código HTML que cria uma página da web com uma barra de pesquisa. O código consiste em uma página HTML básica, com um formulário HTML dentro do corpo da página. O formulário contém um campo de entrada de texto, um botão e uma imagem de lupa.
+Este é um código HTML que cria uma página da web com uma barra de pesquisa responsiva. O código consiste em uma página HTML básica, com um formulário HTML dentro do corpo da página. O formulário contém um campo de entrada de texto, um botão e uma imagem de lupa.
 
 A barra de pesquisa é implementada usando um formulário HTML com um campo de entrada de texto e um botão para enviar o formulário. O atributo 'action' do formulário especifica o URL do mecanismo de pesquisa usado para processar a consulta de pesquisa. Neste caso, o URL aponta para o Google.
 
