@@ -1,9 +1,37 @@
-# Barra de Navegação
-Neste projeto eu fiz uma barra de navegação responsiva usando apenas HTML e CSS.
+<h1 align="center">Barra de Navegação</h1>
 
-Acesse o projeto aqui: <br>
+<p align="center">
+  <a href="#-hospedagem">Hospedagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## 💻 Hospedagem
+
+- Acesse o link abaixo e veja meu código hospedado online<br>
 https://https-shini.github.io/barra-pessquisa/
 
-##
+## 🚀 Tecnologias
 
-https://user-images.githubusercontent.com/100307080/223023297-e1391c6f-ed65-4c0b-96da-c80c0443fda3.mp4
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- Javascript
+
+## 💻 Projeto
+
+Este é um código HTML que cria uma página da web com uma barra de pesquisa. O código consiste em uma página HTML básica, com um formulário HTML dentro do corpo da página. O formulário contém um campo de entrada de texto, um botão e uma imagem de lupa.
+
+A barra de pesquisa é implementada usando um formulário HTML com um campo de entrada de texto e um botão para enviar o formulário. O atributo 'action' do formulário especifica o URL do mecanismo de pesquisa usado para processar a consulta de pesquisa. Neste caso, o URL aponta para o Google.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através do video abaixo.<br>
+https://user-images.githubusercontent.com/100307080/223616475-d4fa00cc-0ca3-486d-bc54-b5cebf4294f7.mp4
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
